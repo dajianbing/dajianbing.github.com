@@ -1,0 +1,15 @@
+---
+layout: post
+title: "new post"
+date: 2014-04-29 11:38:40 +0800
+comments: true
+
+
+<table>
+	<tr>
+		<td>测试表格</td>
+		<td>测试表格2</td>
+	</tr>
+</table>
+categories: 
+---
