@@ -1,0 +1,16 @@
+---
+layout: post
+title: "测试一下"
+date: 2014-04-29 11:11:29 +0800
+comments: true
+
+<table>
+	<tr>
+		<td>这是个测试</td>
+		<td>这是个测试</td>
+	</tr>
+</table>
+
+
+categories: 
+---
