@@ -1,0 +1,12 @@
+---
+layout: post
+title: "test2"
+date: 2014-04-29 11:47:11 +0800
+comments: true
+categories: 
+---
+<table>
+	<tr>
+		<td>test</td>
+	</tr>
+</table>
