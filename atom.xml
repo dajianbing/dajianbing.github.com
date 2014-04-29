@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dajianbing.github.io/atom.xml" rel="self"/>
   <link href="http://dajianbing.github.io/"/>
-  <updated>2014-04-29T11:42:58+08:00</updated>
+  <updated>2014-04-29T11:48:21+08:00</updated>
   <id>http://dajianbing.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,33 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://dajianbing.github.io/blog/2014/04/29/test2/"/>
+    <updated>2014-04-29T11:47:11+08:00</updated>
+    <id>http://dajianbing.github.io/blog/2014/04/29/test2</id>
+    <content type="html"><![CDATA[<table>
+    <tr>
+        <td>test</td>
+    </tr>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[New Post]]></title>
     <link href="http://dajianbing.github.io/blog/2014/04/29/new-post/"/>
-    <updated>2014-04-29T00:00:00+08:00</updated>
+    <updated>2014-04-29T11:38:40+08:00</updated>
     <id>http://dajianbing.github.io/blog/2014/04/29/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<table>
+    <tr>
+        <td>测试表格</td>
+        <td>测试表格2</td>
+    </tr>
+</table>
+
+
+
 ]]></content>
   </entry>
   
